@@ -1,0 +1,5 @@
+[
+	{"nome": "lampada", "prezzo": "39", "disponibile": true, "proprietario": "pverdi1971"},
+	{"nome": "tavolo", "prezzo": "15.90", "disponibile": true, "proprietario": "beppeb90"},
+	{"nome": "sedia", "prezzo": "20.50", "disponibile": true, "proprietario": "almo1998"}
+]

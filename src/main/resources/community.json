@@ -1,0 +1,12 @@
+{
+	"users": [
+		{"username": "aldorossi90", "nome": "Aldo", "cognome": "Rossi"},
+		{"username": "beppeb90", "nome": "Giuseppe", "cognome": "Bianchi"},
+		{"username": "almo1998", "nome": "Alberto", "cognome": "Moro"},
+		{"username": "pverdi1971", "nome": "Paolo", "cognome": "Verdi"}
+	],
+	"friendships": [
+		{"username1": "beppeb90", "username2": "pverdi1971"},
+		{"username1": "beppeb90", "username2": "aldorossi90"}
+	] 
+}
