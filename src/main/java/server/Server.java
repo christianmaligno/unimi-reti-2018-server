@@ -45,8 +45,5 @@ public class Server
 			Worker worker = new Worker(socket, model);
 			executorService.execute(worker);
 		}
-		
-		
-		
 	}
 }
